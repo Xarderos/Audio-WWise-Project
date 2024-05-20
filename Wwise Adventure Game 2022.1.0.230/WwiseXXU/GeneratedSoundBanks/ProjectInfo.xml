@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="WwiseXXU" GUID="{5B2E9620-1437-46F5-95E6-E7B230C8FEEB}" Generator="2022.1.5.8242"/>
+	<CacheRoot>../.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Windows" GUID="{456C40AE-5E8C-4569-B61A-AD21B79FD177}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../GitHub/Audio-WWise-Project/Wwise Adventure Game 2022.1.0.230/WwiseAdventureGame/WwiseAdventureGame_Data/StreamingAssets/Audio/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{D01BA99C-8E1F-4551-A99C-04994355F153}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{A278A918-78D1-2C0A-2586-C64108F438A2}</FileHash>
+</ProjectInfo>
