@@ -15,6 +15,38 @@
 					</ChildrenList>
 				</Event>
 				<Event Name="Stop_All" ID="{724ABD74-39F7-47B7-838C-E33765FDA30C}"/>
+				<Folder Name="Ambient" ID="{C0EF30D3-7D87-43D8-9D0F-A48E2D571973}" ShortID="606035301">
+					<ChildrenList>
+						<Event Name="Ambient_Region_Cave" ID="{FE860BB3-F415-41F9-A237-2E146944CE04}"/>
+						<Event Name="Ambient_Region_Desert" ID="{58CFEC60-6EB9-4A9B-951B-73F3B42F8E31}"/>
+						<Event Name="Ambient_Region_Dungeon" ID="{9A378650-3BA3-4B6E-81C7-8F06D42D685B}"/>
+						<Event Name="Ambient_Region_PineForest" ID="{203F9693-3486-4099-B9D6-932B64E2B364}"/>
+						<Event Name="Ambient_Region_Village" ID="{59EDEB1B-9C39-4471-8424-9D00D886870C}"/>
+						<Event Name="Ambient_Region_Woodlands" ID="{095F04A4-42B3-40AB-9442-46B600BF00C9}"/>
+						<Folder Name="3DEmiters" ID="{78C8F8BF-35AB-4651-B11B-DED8ECE4AB35}" ShortID="802644978">
+							<ChildrenList>
+								<Event Name="Ambient_Campfire_Play" ID="{3F92659A-808A-47F3-8FC4-1174EE595E42}"/>
+								<Event Name="Ambient_Campfire_Stop" ID="{8874D441-0C27-41B6-9C82-9AD234582124}"/>
+								<Event Name="Ambient_Crystal_Hum" ID="{367ED3CD-7796-4B5C-B0C9-16C3142F1F8E}"/>
+								<Event Name="Ambient_Lava" ID="{53C6E91F-2911-48BD-B446-2DBF120BACE6}"/>
+								<Event Name="Ambient_River" ID="{D58EB190-C3CD-4E6F-8A93-BDB7C8B68C23}"/>
+								<Event Name="Ambient_Torch" ID="{82B96DE8-BC14-4FAD-897D-F3CFA6B7A91A}"/>
+								<Event Name="Ambient_Waterfall" ID="{52752A52-06D8-4648-B931-C1CD4345B318}"/>
+								<Event Name="Ambient_Windmill" ID="{E458FBFA-1ECD-4BB9-8E41-EA12BA4D422C}"/>
+								<Event Name="Door_DLCdoor_Open_Play" ID="{5A11A366-6AED-4969-A4BC-55B7DC1A05D9}"/>
+								<Event Name="Door_DLCdoor_Open_Stop" ID="{D2A1E814-87FF-4EF2-A8AA-547DE3DB5284}"/>
+								<Event Name="Music_ArcadeMachine_Play" ID="{291DC800-E8FC-432F-89FF-C089C1AB1430}"/>
+								<Event Name="Music_ArcadeMachine_Stop" ID="{043F1EB0-9F34-465B-9404-D8506160D7C7}"/>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="OneShots" ID="{201186F3-A05E-43A9-A713-40EFB831E47C}" ShortID="748137164">
+							<ChildrenList>
+								<Event Name="Ambient_WaterDrop" ID="{D59AF889-DE71-45CA-ACB1-9304A71C04A6}"/>
+								<Event Name="Door_TempleDoor_Open_Play" ID="{5AFAA134-9403-49C2-B02F-DC24C7433EF6}"/>
+							</ChildrenList>
+						</Folder>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
