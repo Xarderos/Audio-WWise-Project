@@ -40,6 +40,94 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<Folder Name="Quests" ID="{74D9D4F8-E59A-437B-8953-57E6DD3F3FF3}" ShortID="157502809">
+					<ChildrenList>
+						<SoundBank Name="Quest_02" ID="{8EC47F7C-47D8-4BAB-A999-5CF27B515C09}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Quest_04" ID="{96CEE800-526C-4DAA-81BC-8989B62299DA}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Quest_03" ID="{8486F9A7-5EC4-4580-8754-8BAFEA23B3FC}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Quest_08" ID="{2675939D-2028-44CE-81E4-B9262F3041E0}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Quest_06" ID="{D3151F5C-463B-4D6F-BA3A-57E4917E398C}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Quest_05" ID="{3A8F41A4-FD69-4088-A4B5-26B131212E0A}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Quest_01" ID="{4A90C343-5855-424B-B929-5F9AF2D66015}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Quest_07" ID="{F99D1199-2DA5-4770-BF05-1FB77A55EEEE}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+					</ChildrenList>
+				</Folder>
+				<SoundBank Name="Credits" ID="{9172DFCB-5AB9-479C-9F3A-B79207E02A38}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="TtileScreen" ID="{3140B74B-3FB0-45C7-9D59-A6804AA55794}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<Folder Name="Region" ID="{36F30027-3020-472C-A783-B5F8006B674C}" ShortID="185144476">
+					<ChildrenList>
+						<SoundBank Name="Cave" ID="{6367660A-1D23-4E68-887E-8FD868A59FFB}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Desert" ID="{6BCAA892-CD4B-4963-9507-16E5A4AD9DB1}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Dungeon" ID="{C6589006-6754-4411-8EA0-9A5B8E603883}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="PineForest" ID="{945FB50B-246F-4397-B892-361E62467EC7}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Village" ID="{B5239DC6-87CB-4A3B-BD3F-4689B2219B88}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Woodlands" ID="{CA6B0874-3115-448C-A4E7-380ABB282C93}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
