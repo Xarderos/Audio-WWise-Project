@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{6BB5CFC0-8D60-4483-81A6-D77B60E38F62}" SchemaVersion="110">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{6BB5CFC0-8D60-4483-81A6-D77B60E38F62}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{6BB5CFC0-8D60-4483-81A6-D77B60E38F62}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="CombatLevel" ID="{5659C3F9-F1DB-418A-A6F4-410C2B6B60BF}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Enemy_EvilHead_MovementSpeed" ID="{CC85C3C9-86F4-4509-826F-446AECE656D6}"/>
+				<GameParameter Name="Enemy_Music_EvilCrawler" ID="{3A699F23-E299-4E6A-95AE-7F26262EA1E8}"/>
+				<GameParameter Name="Enemy_Music_EvilHead" ID="{9FBB6919-B115-45A1-850F-AB9BF0762478}"/>
+				<GameParameter Name="Enemy_Music_EviSpitPlant" ID="{60B143B3-33D6-4DC4-AC9E-B262AB3F39E4}"/>
+				<GameParameter Name="InMenu_LowPass" ID="{E9A8EC68-8E45-4D02-8B57-4B5DFCA27E45}"/>
+				<GameParameter Name="MenuSlider_Master_Volume" ID="{27D2013B-AC7A-4084-9E9E-3E03A407AC7E}"/>
+				<GameParameter Name="MenuSlider_Music_Volume" ID="{5EA50D3B-2381-4822-B98C-3C338BD793CC}"/>
+				<GameParameter Name="Player_Health" ID="{818D70D1-7891-4B4C-A74E-25CFB8D21732}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Magic_ChargeIntensity" ID="{EFC68B62-824D-40B2-BF3E-9716F31237A8}"/>
+				<GameParameter Name="Player_MovementSpeed" ID="{0A30DB0B-5EEA-4214-9027-8EB2F6752F98}"/>
+				<GameParameter Name="Time_of_Day" ID="{E97E0130-2002-4CE2-9562-13706E590081}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="24"/>
+						<Property Name="Max" Type="Real64" Value="24"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>
