@@ -99,7 +99,6 @@
 						<Event Name="Pickup_ItemType" ID="{279341DC-EEF6-4EE9-9769-87D23616D192}"/>
 						<Event Name="Pickup_Coins" ID="{C3C59C84-174E-4676-817F-2A6B72C96424}"/>
 						<Event Name="Player_WeaponImpact" ID="{60E03ED2-8BCF-461C-BA9B-28477F3C72D9}"/>
-						<Event Name="Player_WeaponSwing" ID="{7A04F8E6-AE09-4E57-A86A-C7C069C654A1}"/>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Core" ID="{650AB697-E821-4626-8B47-742F00C0E362}" ShortID="811019072">
@@ -151,8 +150,28 @@
 				</Folder>
 				<Folder Name="Music" ID="{37CFA4B1-5F29-4F2D-8DC7-CE09EA415F33}" ShortID="434639179">
 					<ChildrenList>
-						<Event Name="Music_TitleScreen" ID="{BC9C959A-8AE0-4434-9207-275C77365AF6}"/>
-						<Event Name="Music_Credits" ID="{DB269BA6-16B3-4E39-AC76-79F5B594C973}"/>
+						<Event Name="Music_TitleScreen" ID="{BC9C959A-8AE0-4434-9207-275C77365AF6}">
+							<ChildrenList>
+								<Action Name="" ID="{4799B11A-E05D-4A2B-A408-21D7B8959CEE}" ShortID="606686342">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="TitleScreen_120BPM_4_4_L41M_P2M" ID="{3FA7EA22-3993-4D86-B99F-2003C4BBD675}" WorkUnitID="{7785CAD9-A2E7-410E-B7CC-48FE6E5B44E9}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Credits" ID="{DB269BA6-16B3-4E39-AC76-79F5B594C973}">
+							<ChildrenList>
+								<Action Name="" ID="{19443B6B-BF67-4253-B18F-F1C893994A56}" ShortID="299974880">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Credits_120BPM_4_4_L8M_P0" ID="{53397749-BF14-4A4B-8DD8-C9173F40545A}" WorkUnitID="{7785CAD9-A2E7-410E-B7CC-48FE6E5B44E9}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="Music_Region" ID="{B9F4EC3B-744F-4BBB-8475-D8650AE730D1}"/>
 					</ChildrenList>
 				</Folder>
@@ -161,7 +180,7 @@
 						<Folder Name="Adventuress" ID="{A12E9672-7B7F-401D-85D2-89DFE3F6F8B9}" ShortID="67610556">
 							<ChildrenList>
 								<Event Name="Player_Hurt_Vox" ID="{17FFEECE-23F2-416C-A65F-964103A5D9AD}"/>
-								<Event Name="New_Event_01" ID="{C3FB5A46-557D-490B-9D23-3D20A202C63E}"/>
+								<Event Name="Player_WeaponSwing" ID="{7A04F8E6-AE09-4E57-A86A-C7C069C654A1}"/>
 							</ChildrenList>
 						</Folder>
 						<Folder Name="Wwizard" ID="{2390E42E-093D-4D1B-8847-E5EC7D8E0F35}" ShortID="29861265">

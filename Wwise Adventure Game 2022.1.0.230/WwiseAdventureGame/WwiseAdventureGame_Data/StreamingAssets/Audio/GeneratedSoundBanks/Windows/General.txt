@@ -1,11 +1,11 @@
 Event	ID	Name			Wwise Object Path	Notes
-	2453392179	Player_Footstep			\Default Work Unit\Player_Footstep	
+	2453392179	Player_Footstep			\Default Work Unit\Player\Player_Footstep	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	586765292	BAS_Player_Footstep_grass_walk_04	C:\Users\xavierpp13\Documents\WwiseProjects\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_04		45328
-	588480236	BAS_Player_Footstep_grass_walk_05	C:\Users\xavierpp13\Documents\WwiseProjects\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_05		47410
-	635420398	BAS_Player_Footstep_grass_walk_03	C:\Users\xavierpp13\Documents\WwiseProjects\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_03		48070
-	792930211	BAS_Player_Footstep_grass_walk_02	C:\Users\xavierpp13\Documents\WwiseProjects\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_02		51004
-	807112778	BAS_Player_Footstep_grass_walk_01	C:\Users\xavierpp13\Documents\WwiseProjects\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_01		47220
-	840883599	BAS_Player_Footstep_grass_walk_06	C:\Users\xavierpp13\Documents\WwiseProjects\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_06		47032
+	586765292	BAS_Player_Footstep_grass_walk_04	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_04		45328
+	588480236	BAS_Player_Footstep_grass_walk_05	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_05		47410
+	635420398	BAS_Player_Footstep_grass_walk_03	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_03		48070
+	792930211	BAS_Player_Footstep_grass_walk_02	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_02		51004
+	807112778	BAS_Player_Footstep_grass_walk_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_01		47220
+	840883599	BAS_Player_Footstep_grass_walk_06	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\Grass\BAS_Player_Footstep_grass_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grass\BAS_Player_Footstep_grass_walk_06		47032
 
