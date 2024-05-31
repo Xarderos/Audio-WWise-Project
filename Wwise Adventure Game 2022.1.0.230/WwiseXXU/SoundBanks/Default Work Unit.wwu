@@ -15,6 +15,7 @@
 						<ObjectRef Name="UI_Inventory_Roll" ID="{AFE96343-3525-47F9-ACF7-69C1C68C8894}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambient_Crystal_Hum" ID="{367ED3CD-7796-4B5C-B0C9-16C3142F1F8E}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Destruction_Container" ID="{47E32CAC-2E51-4BB1-99A0-6D7250ADB31B}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music_Region" ID="{B9F4EC3B-744F-4BBB-8475-D8650AE730D1}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Inventory_Open" ID="{52C7D89B-A3DA-4ED6-9C39-1BE8B2A8034E}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Inventory_Close" ID="{DBAF4EED-6AB2-4F05-83E4-9E81ADA8FC4B}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambient_Torch" ID="{82B96DE8-BC14-4FAD-897D-F3CFA6B7A91A}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>

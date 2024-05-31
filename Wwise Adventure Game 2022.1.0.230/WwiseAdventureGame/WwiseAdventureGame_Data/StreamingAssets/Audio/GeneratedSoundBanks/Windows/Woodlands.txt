@@ -4,9 +4,10 @@ Event	ID	Name			Wwise Object Path	Notes
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	81456906	BAS_amb_forest_day_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_forest_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Forest_background\BAS_amb_forest_day_background_loop_01		27990112
-	915880197	BAS_Waterfall	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Waterfall_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\3DEmitters\BAS_Waterfall		768096
-	1006245995	amb_forest_night_background_loop_02	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\amb_forest_night_background_loop_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Forest_background\amb_forest_night_background_loop_02		4343896
+	81456906	BAS_amb_forest_day_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_forest_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\Forest_background\BAS_amb_forest_day_background_loop_01		27990112
+	915880197	BAS_Waterfall	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Waterfall_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\3DEmitters\BAS_Waterfall		768096
+	1006245995	amb_forest_night_background_loop_02	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\amb_forest_night_background_loop_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\Forest_background\amb_forest_night_background_loop_02		4343896
 

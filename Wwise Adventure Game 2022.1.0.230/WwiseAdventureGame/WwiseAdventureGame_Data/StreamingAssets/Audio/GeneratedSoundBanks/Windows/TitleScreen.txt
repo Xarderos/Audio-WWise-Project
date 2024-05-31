@@ -1,6 +1,10 @@
 Event	ID	Name			Wwise Object Path	Notes
 	1532327793	Music_TitleScreen			\Default Work Unit\Music\Music_TitleScreen	
 
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+	2642438544	MenuSlider_Music_Volume			\Default Work Unit\MenuSlider_Music_Volume	
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	597320503	TitleScreen_120BPM_4_4_L41M_P2M	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\TitleScreen_120BPM_4_4_L41M_P2M_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\TitleScreen_120BPM_4_4_L41M_P2M		17664096
+	597320503	TitleScreen_120BPM_4_4_L41M_P2M	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\TitleScreen_120BPM_4_4_L41M_P2M_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\MusicMixer\Music\TitleScreen_120BPM_4_4_L41M_P2M		17664096
 

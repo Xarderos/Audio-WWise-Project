@@ -2,9 +2,12 @@ Event	ID	Name			Wwise Object Path	Notes
 	1999886838	Destruction_Rock_Destroy			\Default Work Unit\Destruction\Destruction_Rock_Destroy	
 	4077685701	Ambient_Region_Dungeon			\Default Work Unit\Ambient\Ambient_Region_Dungeon	
 
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	709638638	BAS_amb_dungeon_day_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_dungeon_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\BAS_amb_dungeon_day_background_loop_01		24641632
-	712016844	BAS_Destroy_Rock_03	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Destroy_Rock_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\RockDestroy\BAS_Destroy_Rock_03		87136
-	821352147	BAS_Destroy_Rock_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Destroy_Rock_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\RockDestroy\BAS_Destroy_Rock_01		105568
-	967835264	BAS_Destroy_Rock_02	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Destroy_Rock_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\RockDestroy\BAS_Destroy_Rock_02		119904
+	709638638	BAS_amb_dungeon_day_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_dungeon_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\BAS_amb_dungeon_day_background_loop_01		24641632
+	712016844	BAS_Destroy_Rock_03	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Destroy_Rock_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Destruction\RockDestroy\BAS_Destroy_Rock_03		87136
+	821352147	BAS_Destroy_Rock_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Destroy_Rock_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Destruction\RockDestroy\BAS_Destroy_Rock_01		105568
+	967835264	BAS_Destroy_Rock_02	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Destroy_Rock_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Destruction\RockDestroy\BAS_Destroy_Rock_02		119904
 

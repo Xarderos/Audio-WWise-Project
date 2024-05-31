@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{D19CD2BF-7BCC-E044-9861-D667DF43A559}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{C707064E-ACDF-8D94-1407-12250E8A35BD}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
@@ -28,6 +28,10 @@
 				<File Id="72284526" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_QuestRoll_Close.wav</ShortName>
 					<CachePath>SFX/BAS_QuestRoll_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="80850989" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Goku-y-Vegeta-cantando-El-Efecto___Oficial-Video_.wav</ShortName>
+					<CachePath>SFX/Goku-y-Vegeta-cantando-El-Efecto___Oficial-Video__10C4C929.wem</CachePath>
 				</File>
 				<File Id="103622618" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_02.wav</ShortName>
@@ -209,6 +213,10 @@
 					<ShortName>BAS_Crate_Destroy_01.wav</ShortName>
 					<CachePath>SFX/BAS_Crate_Destroy_01_10C4C929.wem</CachePath>
 				</File>
+				<File Id="690277391" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Evil_SpitPlant_Hurt_02.wav</ShortName>
+					<CachePath>SFX/BAS_Evil_SpitPlant_Hurt_02_10C4C929.wem</CachePath>
+				</File>
 				<File Id="696910856" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Rubble\BAS_Player_Footstep_rubble_run_05.wav</ShortName>
 					<CachePath>SFX/Footsteps/Run/Rubble/BAS_Player_Footstep_rubble_run_05_10C4C929.wem</CachePath>
@@ -293,6 +301,10 @@
 					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_03.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_03_10C4C929.wem</CachePath>
 				</File>
+				<File Id="951164434" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Evil_Head_Hurt_01.wav</ShortName>
+					<CachePath>SFX/BAS_Evil_Head_Hurt_01_10C4C929.wem</CachePath>
+				</File>
 				<File Id="968670074" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_05.wav</ShortName>
 					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_05_10C4C929.wem</CachePath>
@@ -316,6 +328,10 @@
 				<File Id="1012691608" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Impacts\BAS_Impact_Sword_SurfaceType_Stone.wav</ShortName>
 					<CachePath>SFX/Impacts/BAS_Impact_Sword_SurfaceType_Stone_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1013916033" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Evil_Crawler_Hurt_01.wav</ShortName>
+					<CachePath>SFX/BAS_Evil_Crawler_Hurt_01_10C4C929.wem</CachePath>
 				</File>
 				<File Id="1038657102" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_02.wav</ShortName>
@@ -363,6 +379,11 @@
 						<MediaRef Id="673705479"/>
 						<MediaRef Id="723128215"/>
 						<MediaRef Id="760684362"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3741135221" Name="Music_Region">
+					<MediaRefs>
+						<MediaRef Id="80850989"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="2453392179" Name="Player_Footstep">
@@ -452,6 +473,18 @@
 							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="2454616260" Default="true"/>
 							<Children>
 								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3276966729"/>
+									<MediaRefs>
+										<MediaRef Id="690277391"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1647104456"/>
+									<MediaRefs>
+										<MediaRef Id="1013916033"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="582824249"/>
 									<MediaRefs>
 										<MediaRef Id="876800274"/>
@@ -488,6 +521,12 @@
 									</MediaRefs>
 								</SwitchContainer>
 								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3065846598"/>
+									<MediaRefs>
+										<MediaRef Id="951164434"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="442447909" Default="true"/>
 									<MediaRefs>
 										<MediaRef Id="643700972"/>
@@ -499,9 +538,27 @@
 							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="490825222"/>
 							<Children>
 								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3276966729"/>
+									<MediaRefs>
+										<MediaRef Id="690277391"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1647104456"/>
+									<MediaRefs>
+										<MediaRef Id="1013916033"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3098439042"/>
 									<MediaRefs>
 										<MediaRef Id="648114823"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3065846598"/>
+									<MediaRefs>
+										<MediaRef Id="951164434"/>
 									</MediaRefs>
 								</SwitchContainer>
 								<SwitchContainer>
@@ -516,9 +573,27 @@
 							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="703486095"/>
 							<Children>
 								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3276966729"/>
+									<MediaRefs>
+										<MediaRef Id="690277391"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1647104456"/>
+									<MediaRefs>
+										<MediaRef Id="1013916033"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3098439042"/>
 									<MediaRefs>
 										<MediaRef Id="346549847"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3065846598"/>
+									<MediaRefs>
+										<MediaRef Id="951164434"/>
 									</MediaRefs>
 								</SwitchContainer>
 								<SwitchContainer>
@@ -532,6 +607,18 @@
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="765201635"/>
 							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3276966729"/>
+									<MediaRefs>
+										<MediaRef Id="690277391"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1647104456"/>
+									<MediaRefs>
+										<MediaRef Id="1013916033"/>
+									</MediaRefs>
+								</SwitchContainer>
 								<SwitchContainer>
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="582824249"/>
 									<MediaRefs>
@@ -563,6 +650,12 @@
 									</MediaRefs>
 								</SwitchContainer>
 								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3065846598"/>
+									<MediaRefs>
+										<MediaRef Id="951164434"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="442447909" Default="true"/>
 									<MediaRefs>
 										<MediaRef Id="613213656"/>
@@ -573,6 +666,18 @@
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="3732162827"/>
 							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3276966729"/>
+									<MediaRefs>
+										<MediaRef Id="690277391"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1647104456"/>
+									<MediaRefs>
+										<MediaRef Id="1013916033"/>
+									</MediaRefs>
+								</SwitchContainer>
 								<SwitchContainer>
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="582824249"/>
 									<MediaRefs>
@@ -607,6 +712,12 @@
 									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2058049674"/>
 									<MediaRefs>
 										<MediaRef Id="1007386017"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3065846598"/>
+									<MediaRefs>
+										<MediaRef Id="951164434"/>
 									</MediaRefs>
 								</SwitchContainer>
 								<SwitchContainer>
@@ -655,6 +766,10 @@
 					</MediaRefs>
 				</Event>
 			</Events>
+			<GameParameters>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
+			</GameParameters>
 			<SwitchGroups>
 				<SwitchGroup Id="3251833556" Name="Player_Weapon_Type">
 					<Switches>
@@ -687,7 +802,7 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="152105657" Type="User" Language="SFX" Hash="{D34562ED-BEAA-241B-C5CB-D99DFBCA5339}">
+		<SoundBank Id="152105657" Type="User" Language="SFX" Hash="{EE4B8B4A-6975-FB19-195B-CE2856600B1E}">
 			<ShortName>TitleScreen</ShortName>
 			<Path>TitleScreen.bnk</Path>
 			<Media>
@@ -703,8 +818,12 @@
 					</MediaRefs>
 				</Event>
 			</Events>
+			<GameParameters>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
+			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="608898761" Type="User" Language="SFX" Hash="{30756DEE-3484-5F20-F004-DEEAE40BD2C9}">
+		<SoundBank Id="608898761" Type="User" Language="SFX" Hash="{68DEE4BE-1AE5-168F-962E-68D9534B7E9A}">
 			<ShortName>Dungeon</ShortName>
 			<Path>Dungeon.bnk</Path>
 			<Media>
@@ -739,6 +858,9 @@
 					</MediaRefs>
 				</Event>
 			</Events>
+			<GameParameters>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+			</GameParameters>
 		</SoundBank>
 		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{D207F950-E8F6-3708-784F-341F93ED77FE}">
 			<ShortName>Init</ShortName>
@@ -1029,7 +1151,7 @@
 				</AcousticTexture>
 			</AcousticTextures>
 		</SoundBank>
-		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{EADD6991-7B89-A44F-D699-19F381A0B4F2}">
+		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{A3B3707C-E2B4-738A-0ABB-D50AE79D7B2B}">
 			<ShortName>Woodlands</ShortName>
 			<Path>Woodlands.bnk</Path>
 			<Media>
@@ -1061,9 +1183,10 @@
 			</Events>
 			<GameParameters>
 				<GameParameter Id="207908541" Name="Time_of_Day"/>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="1850388778" Type="User" Language="SFX" Hash="{7B2EB19E-F8F3-A8AE-D3A7-52FD3523A746}">
+		<SoundBank Id="1850388778" Type="User" Language="SFX" Hash="{53F1C99E-96CE-5FD4-440B-E230EF4C243C}">
 			<ShortName>Desert</ShortName>
 			<Path>Desert.bnk</Path>
 			<Media>
@@ -1095,9 +1218,10 @@
 			</Events>
 			<GameParameters>
 				<GameParameter Id="207908541" Name="Time_of_Day"/>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="2201105581" Type="User" Language="SFX" Hash="{02FDFE0A-F823-0952-5D43-9CE382440377}">
+		<SoundBank Id="2201105581" Type="User" Language="SFX" Hash="{37426CC5-49FA-F6BE-30C0-0FF7B9530388}">
 			<ShortName>Credits</ShortName>
 			<Path>Credits.bnk</Path>
 			<Media>
@@ -1113,6 +1237,10 @@
 					</MediaRefs>
 				</Event>
 			</Events>
+			<GameParameters>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
+			</GameParameters>
 		</SoundBank>
 		<SoundBank Id="2242381963" Type="User" Language="SFX" Hash="{1828A61D-635D-93BB-855C-A171D7CE6897}">
 			<ShortName>Enemies</ShortName>
@@ -1154,7 +1282,7 @@
 			<ShortName>Destruction</ShortName>
 			<Path>Destruction.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="2482365692" Type="User" Language="SFX" Hash="{80BBCAFC-E4C7-1795-3A3F-F0E0F8E4090C}">
+		<SoundBank Id="2482365692" Type="User" Language="SFX" Hash="{2B3DDE3B-6C29-8F05-BB03-5FEEC5660C24}">
 			<ShortName>PineForest</ShortName>
 			<Path>PineForest.bnk</Path>
 			<Media>
@@ -1170,12 +1298,15 @@
 					</MediaRefs>
 				</Event>
 			</Events>
+			<GameParameters>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+			</GameParameters>
 		</SoundBank>
 		<SoundBank Id="3787826988" Type="User" Language="SFX" Hash="{01AF54D9-2D97-6848-7CC1-EDDE863FFC9D}">
 			<ShortName>Core</ShortName>
 			<Path>Core.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3945572659" Type="User" Language="SFX" Hash="{7E758BFC-CF32-65B5-8282-192B37926F03}">
+		<SoundBank Id="3945572659" Type="User" Language="SFX" Hash="{429FD08B-0E96-EA46-02E0-BCC1E92DA3C4}">
 			<ShortName>Village</ShortName>
 			<Path>Village.bnk</Path>
 			<Media>
@@ -1216,9 +1347,10 @@
 			</Events>
 			<GameParameters>
 				<GameParameter Id="207908541" Name="Time_of_Day"/>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{31DE2C11-1D55-0D0D-40C5-248441B6657A}">
+		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{A20A6824-8D6C-0E3C-B460-AD34972A671C}">
 			<ShortName>Cave</ShortName>
 			<Path>Cave.bnk</Path>
 			<Media>
@@ -1277,7 +1409,10 @@
 					</MediaRefs>
 				</Event>
 			</Events>
+			<GameParameters>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+			</GameParameters>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{B181E05A-75B4-7A34-77D4-AC91EAA31745}</FileHash>
+	<FileHash>{06F2737D-4A2F-C757-ABCA-F04FBCC7F3F7}</FileHash>
 </SoundBanksInfo>

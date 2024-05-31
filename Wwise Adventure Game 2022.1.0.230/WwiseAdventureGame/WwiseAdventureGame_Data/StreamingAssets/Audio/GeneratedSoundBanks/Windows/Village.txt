@@ -5,10 +5,11 @@ Event	ID	Name			Wwise Object Path	Notes
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	221580004	BAS_Water_River	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Water_River_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\3DEmitters\BAS_Water_River		3072160
-	265151072	BAS_WindMillBlade_02	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_WindMillBlade_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\3DEmitters\BAS_WindMillBlade_02		1163360
-	325196483	BAS_amb_village_night_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_village_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Village_background\BAS_amb_village_night_background_loop_01		23457888
-	490121059	BAS_amb_village_day_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_village_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Village_background\BAS_amb_village_day_background_loop_01		28801120
+	221580004	BAS_Water_River	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_Water_River_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\3DEmitters\BAS_Water_River		3072160
+	265151072	BAS_WindMillBlade_02	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_WindMillBlade_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\3DEmitters\BAS_WindMillBlade_02		1163360
+	325196483	BAS_amb_village_night_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_village_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\Village_background\BAS_amb_village_night_background_loop_01		23457888
+	490121059	BAS_amb_village_day_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_village_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Ambient\Village_background\BAS_amb_village_day_background_loop_01		28801120
 

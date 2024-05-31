@@ -445,7 +445,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Music_Region" ID="{B9F4EC3B-744F-4BBB-8475-D8650AE730D1}"/>
+						<Event Name="Music_Region" ID="{B9F4EC3B-744F-4BBB-8475-D8650AE730D1}">
+							<ChildrenList>
+								<Action Name="" ID="{B5726ACF-9830-49D8-86EB-47663F30FE39}" ShortID="773655405">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Goku-y-Vegeta-cantando-El-Efecto___Oficial-Video_" ID="{FC0D7053-5C7C-4060-BE67-37635E7C518C}" WorkUnitID="{7785CAD9-A2E7-410E-B7CC-48FE6E5B44E9}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Voice Over" ID="{2848405C-2833-438A-9225-C2ED9309C6B0}" ShortID="716196679">
