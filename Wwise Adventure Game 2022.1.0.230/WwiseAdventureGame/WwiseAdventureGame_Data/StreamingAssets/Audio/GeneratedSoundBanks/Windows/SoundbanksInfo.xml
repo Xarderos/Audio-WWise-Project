@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{DB125129-A867-A0DB-0E50-E75BDA38FCDB}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{10675EA7-E5BC-F1E7-BA1F-DF72D3A21B04}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
@@ -31,7 +31,7 @@
 				</File>
 				<File Id="80850989" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Goku-y-Vegeta-cantando-El-Efecto___Oficial-Video_.wav</ShortName>
-					<CachePath>SFX/Goku-y-Vegeta-cantando-El-Efecto___Oficial-Video__10C4C929.wem</CachePath>
+					<CachePath>SFX/Goku-y-Vegeta-cantando-El-Efecto___Oficial-Video__D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="103622618" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_02.wav</ShortName>
@@ -1151,7 +1151,7 @@
 				</AcousticTexture>
 			</AcousticTextures>
 		</SoundBank>
-		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{A3B3707C-E2B4-738A-0ABB-D50AE79D7B2B}">
+		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{7A1B03FC-360F-C086-B65C-8779DE1DE1A5}">
 			<ShortName>Woodlands</ShortName>
 			<Path>Woodlands.bnk</Path>
 			<Media>
@@ -1221,13 +1221,13 @@
 				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="2201105581" Type="User" Language="SFX" Hash="{37426CC5-49FA-F6BE-30C0-0FF7B9530388}">
+		<SoundBank Id="2201105581" Type="User" Language="SFX" Hash="{C950A772-7139-938A-16F5-2AD25E98AFC2}">
 			<ShortName>Credits</ShortName>
 			<Path>Credits.bnk</Path>
 			<Media>
 				<File Id="1040151079" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Credits_120BPM_4_4_L8M_P0.wav</ShortName>
-					<CachePath>SFX/Credits_120BPM_4_4_L8M_P0_10C4C929.wem</CachePath>
+					<CachePath>SFX/Credits_120BPM_4_4_L8M_P0_D79FB2B7.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
@@ -1242,7 +1242,7 @@
 				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="2482365692" Type="User" Language="SFX" Hash="{2B3DDE3B-6C29-8F05-BB03-5FEEC5660C24}">
+		<SoundBank Id="2482365692" Type="User" Language="SFX" Hash="{711513EC-2FA7-A085-3AD4-FEB78E434C57}">
 			<ShortName>PineForest</ShortName>
 			<Path>PineForest.bnk</Path>
 			<Media>
@@ -1370,5 +1370,5 @@
 			</GameParameters>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{ECD95254-6621-5038-909A-E7EA931511DF}</FileHash>
+	<FileHash>{107053B5-AB8D-6750-86F0-4C246277F9DF}</FileHash>
 </SoundBanksInfo>
