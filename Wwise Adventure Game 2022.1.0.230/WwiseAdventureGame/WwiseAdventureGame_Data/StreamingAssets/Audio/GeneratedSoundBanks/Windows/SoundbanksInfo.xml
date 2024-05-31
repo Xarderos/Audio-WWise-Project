@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{4BF3A4A1-B77E-3ACD-5A67-D705673B4596}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{BC100326-60B2-D154-F6AA-7E7272368712}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
@@ -29,18 +29,6 @@
 					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_02.wav</ShortName>
 					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_02_10C4C929.wem</CachePath>
 				</File>
-				<File Id="109255049" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_02.wav</ShortName>
-					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_02_10C4C929.wem</CachePath>
-				</File>
-				<File Id="113860443" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>BAS_Crystals_Destroy.wav</ShortName>
-					<CachePath>SFX/BAS_Crystals_Destroy_10C4C929.wem</CachePath>
-				</File>
-				<File Id="143209952" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_06.wav</ShortName>
-					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_06_10C4C929.wem</CachePath>
-				</File>
 				<File Id="167699009" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_05.wav</ShortName>
 					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_05_10C4C929.wem</CachePath>
@@ -57,10 +45,6 @@
 					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_03.wav</ShortName>
 					<CachePath>SFX/Footsteps/Run/Stone/BAS_Player_Footstep_stone_run_03_10C4C929.wem</CachePath>
 				</File>
-				<File Id="243336331" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_04.wav</ShortName>
-					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_04_10C4C929.wem</CachePath>
-				</File>
 				<File Id="247052967" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Button_Enter.wav</ShortName>
 					<CachePath>SFX/BAS_Button_Enter_10C4C929.wem</CachePath>
@@ -68,6 +52,10 @@
 				<File Id="270169039" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Button_Close.wav</ShortName>
 					<CachePath>SFX/BAS_Button_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="270779164" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crystal_Ringing.wav</ShortName>
+					<CachePath>SFX/BAS_Crystal_Ringing_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="272666910" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_01.wav</ShortName>
@@ -88,6 +76,10 @@
 				<File Id="368175859" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Inventory_Scroll.wav</ShortName>
 					<CachePath>SFX/BAS_Inventory_Scroll_10C4C929.wem</CachePath>
+				</File>
+				<File Id="431236845" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Torch.wav</ShortName>
+					<CachePath>SFX/BAS_Torch_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="474257553" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_06.wav</ShortName>
@@ -157,10 +149,6 @@
 					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_02.wav</ShortName>
 					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_02_10C4C929.wem</CachePath>
 				</File>
-				<File Id="712016844" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>BAS_Destroy_Rock_03.wav</ShortName>
-					<CachePath>SFX/BAS_Destroy_Rock_03_10C4C929.wem</CachePath>
-				</File>
 				<File Id="723128215" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Crate_Destroy_06.wav</ShortName>
 					<CachePath>SFX/BAS_Crate_Destroy_06_10C4C929.wem</CachePath>
@@ -189,21 +177,9 @@
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_01.wav</ShortName>
 					<CachePath>SFX/Grass/BAS_Player_Footstep_grass_walk_01_10C4C929.wem</CachePath>
 				</File>
-				<File Id="821352147" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>BAS_Destroy_Rock_01.wav</ShortName>
-					<CachePath>SFX/BAS_Destroy_Rock_01_10C4C929.wem</CachePath>
-				</File>
-				<File Id="824262509" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_05.wav</ShortName>
-					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_05_10C4C929.wem</CachePath>
-				</File>
 				<File Id="840883599" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_06.wav</ShortName>
 					<CachePath>SFX/Grass/BAS_Player_Footstep_grass_walk_06_10C4C929.wem</CachePath>
-				</File>
-				<File Id="843846578" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_01.wav</ShortName>
-					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_01_10C4C929.wem</CachePath>
 				</File>
 				<File Id="857755466" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_04.wav</ShortName>
@@ -212,14 +188,6 @@
 				<File Id="881138053" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_06.wav</ShortName>
 					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_06_10C4C929.wem</CachePath>
-				</File>
-				<File Id="941532795" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_03.wav</ShortName>
-					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_03_10C4C929.wem</CachePath>
-				</File>
-				<File Id="967835264" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>BAS_Destroy_Rock_02.wav</ShortName>
-					<CachePath>SFX/BAS_Destroy_Rock_02_10C4C929.wem</CachePath>
 				</File>
 				<File Id="968670074" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_05.wav</ShortName>
@@ -255,6 +223,22 @@
 				</File>
 			</Media>
 			<Events>
+				<Event Id="3664581270" Name="Ambient_Campfire_Play">
+					<MediaRefs>
+						<MediaRef Id="431236845"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="100151336" Name="Ambient_Campfire_Stop"/>
+				<Event Id="2355650095" Name="Ambient_Crystal_Hum">
+					<MediaRefs>
+						<MediaRef Id="270779164"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="120976108" Name="Ambient_Torch">
+					<MediaRefs>
+						<MediaRef Id="431236845"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="4254124015" Name="Destruction_Container">
 					<MediaRefs>
 						<MediaRef Id="274672633"/>
@@ -263,18 +247,6 @@
 						<MediaRef Id="673705479"/>
 						<MediaRef Id="723128215"/>
 						<MediaRef Id="760684362"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="448719855" Name="Destruction_Crystal_Destroy">
-					<MediaRefs>
-						<MediaRef Id="113860443"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="1999886838" Name="Destruction_Rock_Destroy">
-					<MediaRefs>
-						<MediaRef Id="712016844"/>
-						<MediaRef Id="821352147"/>
-						<MediaRef Id="967835264"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="2541270269" Name="Destruction_VolcanicBoulder_Impact">
@@ -315,17 +287,6 @@
 								<MediaRef Id="792930211"/>
 								<MediaRef Id="807112778"/>
 								<MediaRef Id="840883599"/>
-							</MediaRefs>
-						</SwitchContainer>
-						<SwitchContainer>
-							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2195636714"/>
-							<MediaRefs>
-								<MediaRef Id="109255049"/>
-								<MediaRef Id="143209952"/>
-								<MediaRef Id="243336331"/>
-								<MediaRef Id="824262509"/>
-								<MediaRef Id="843846578"/>
-								<MediaRef Id="941532795"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
@@ -439,13 +400,25 @@
 				</Event>
 			</Events>
 		</SoundBank>
-		<SoundBank Id="608898761" Type="User" Language="SFX" Hash="{7463EC7B-D71D-C8F7-1640-B012AC72A028}">
+		<SoundBank Id="608898761" Type="User" Language="SFX" Hash="{30756DEE-3484-5F20-F004-DEEAE40BD2C9}">
 			<ShortName>Dungeon</ShortName>
 			<Path>Dungeon.bnk</Path>
 			<Media>
 				<File Id="709638638" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_amb_dungeon_day_background_loop_01.wav</ShortName>
 					<CachePath>SFX/BAS_amb_dungeon_day_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="712016844" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_03.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="821352147" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_01.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="967835264" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_02.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_02_10C4C929.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
@@ -454,9 +427,16 @@
 						<MediaRef Id="709638638"/>
 					</MediaRefs>
 				</Event>
+				<Event Id="1999886838" Name="Destruction_Rock_Destroy">
+					<MediaRefs>
+						<MediaRef Id="712016844"/>
+						<MediaRef Id="821352147"/>
+						<MediaRef Id="967835264"/>
+					</MediaRefs>
+				</Event>
 			</Events>
 		</SoundBank>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{F0A21628-83EE-BE22-17BA-7B6A0A2FF9C2}">
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{B551B593-5D35-09DA-67ED-B1A39B72D8D6}">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
@@ -663,13 +643,17 @@
 				</AcousticTexture>
 			</AcousticTextures>
 		</SoundBank>
-		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{291B8FD7-6097-4DD1-95C4-A133465AEDEB}">
+		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{EADD6991-7B89-A44F-D699-19F381A0B4F2}">
 			<ShortName>Woodlands</ShortName>
 			<Path>Woodlands.bnk</Path>
 			<Media>
 				<File Id="81456906" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_amb_forest_day_background_loop_01.wav</ShortName>
 					<CachePath>SFX/BAS_amb_forest_day_background_loop_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="915880197" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Waterfall.wav</ShortName>
+					<CachePath>SFX/BAS_Waterfall_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="1006245995" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>amb_forest_night_background_loop_02.wav</ShortName>
@@ -683,12 +667,17 @@
 						<MediaRef Id="1006245995"/>
 					</MediaRefs>
 				</Event>
+				<Event Id="1934835592" Name="Ambient_Waterfall">
+					<MediaRefs>
+						<MediaRef Id="915880197"/>
+					</MediaRefs>
+				</Event>
 			</Events>
 			<GameParameters>
 				<GameParameter Id="207908541" Name="Time_of_Day"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="1850388778" Type="User" Language="SFX" Hash="{1CD6ADDA-BBF6-7D72-DE2F-BAA15860C6D4}">
+		<SoundBank Id="1850388778" Type="User" Language="SFX" Hash="{7B2EB19E-F8F3-A8AE-D3A7-52FD3523A746}">
 			<ShortName>Desert</ShortName>
 			<Path>Desert.bnk</Path>
 			<Media>
@@ -700,12 +689,21 @@
 					<ShortName>BAS_amb_desert_day_background_loop_01.wav</ShortName>
 					<CachePath>SFX/BAS_amb_desert_day_background_loop_01_D79FB2B7.wem</CachePath>
 				</File>
+				<File Id="1043118636" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explosion.wav</ShortName>
+					<CachePath>SFX/Explosion_10C4C929.wem</CachePath>
+				</File>
 			</Media>
 			<Events>
 				<Event Id="3408705206" Name="Ambient_Region_Desert">
 					<MediaRefs>
 						<MediaRef Id="341736802"/>
 						<MediaRef Id="587927938"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2541270269" Name="Destruction_VolcanicBoulder_Impact">
+					<MediaRefs>
+						<MediaRef Id="1043118636"/>
 					</MediaRefs>
 				</Event>
 			</Events>
@@ -791,17 +789,25 @@
 			<ShortName>Core</ShortName>
 			<Path>Core.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3945572659" Type="User" Language="SFX" Hash="{5DBD1579-C1F8-E333-6A83-883746516982}">
+		<SoundBank Id="3945572659" Type="User" Language="SFX" Hash="{7E758BFC-CF32-65B5-8282-192B37926F03}">
 			<ShortName>Village</ShortName>
 			<Path>Village.bnk</Path>
 			<Media>
+				<File Id="221580004" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Water_River.wav</ShortName>
+					<CachePath>SFX/BAS_Water_River_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="265151072" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WindMillBlade_02.wav</ShortName>
+					<CachePath>SFX/BAS_WindMillBlade_02_D79FB2B7.wem</CachePath>
+				</File>
 				<File Id="325196483" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_amb_village_night_background_loop_01.wav</ShortName>
 					<CachePath>SFX/BAS_amb_village_night_background_loop_01_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="490121059" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_amb_village_day_background_loop_01.wav</ShortName>
-					<CachePath>SFX/BAS_amb_village_day_background_loop_01_D79FB2B7.wem</CachePath>
+					<CachePath>SFX/BAS_amb_village_day_background_loop_01_10C4C929.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
@@ -811,18 +817,56 @@
 						<MediaRef Id="490121059"/>
 					</MediaRefs>
 				</Event>
+				<Event Id="2258053876" Name="Ambient_River">
+					<MediaRefs>
+						<MediaRef Id="221580004"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2208964750" Name="Ambient_Windmill">
+					<MediaRefs>
+						<MediaRef Id="265151072"/>
+					</MediaRefs>
+				</Event>
 			</Events>
 			<GameParameters>
 				<GameParameter Id="207908541" Name="Time_of_Day"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{1A60609B-E875-4CEF-2022-331953AF9A59}">
+		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{1CBBD7DE-388E-2B7F-8521-03D5380F40F4}">
 			<ShortName>Cave</ShortName>
 			<Path>Cave.bnk</Path>
 			<Media>
+				<File Id="83641275" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_02.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="113860443" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crystals_Destroy.wav</ShortName>
+					<CachePath>SFX/BAS_Crystals_Destroy_10C4C929.wem</CachePath>
+				</File>
 				<File Id="147791747" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_amb_cave_background_LP.wav</ShortName>
 					<CachePath>SFX/BAS_amb_cave_background_LP_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="160482714" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_04.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="454579878" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_06.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="751621581" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_01.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="986499681" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_03.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1050706126" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_05.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_05_10C4C929.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
@@ -831,8 +875,23 @@
 						<MediaRef Id="147791747"/>
 					</MediaRefs>
 				</Event>
+				<Event Id="2644063196" Name="Ambient_WaterDrop">
+					<MediaRefs>
+						<MediaRef Id="83641275"/>
+						<MediaRef Id="160482714"/>
+						<MediaRef Id="454579878"/>
+						<MediaRef Id="751621581"/>
+						<MediaRef Id="986499681"/>
+						<MediaRef Id="1050706126"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="448719855" Name="Destruction_Crystal_Destroy">
+					<MediaRefs>
+						<MediaRef Id="113860443"/>
+					</MediaRefs>
+				</Event>
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{90B08440-0CC0-DFE2-DA2E-853529157D3A}</FileHash>
+	<FileHash>{D18C9EAE-B7E2-C1A5-EA7A-37CA2236EB66}</FileHash>
 </SoundBanksInfo>

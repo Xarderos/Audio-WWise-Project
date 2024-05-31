@@ -1,10 +1,12 @@
 Event	ID	Name			Wwise Object Path	Notes
+	2541270269	Destruction_VolcanicBoulder_Impact			\Default Work Unit\Destruction\Destruction_VolcanicBoulder_Impact	
 	3408705206	Ambient_Region_Desert			\Default Work Unit\Ambient\Ambient_Region_Desert	
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	341736802	BAS_amb_desert_night_background_loop_01	C:\Users\PcCom\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_desert_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Desert_background\BAS_amb_desert_night_background_loop_01		11931232
-	587927938	BAS_amb_desert_day_background_loop_01	C:\Users\PcCom\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_desert_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Desert_background\BAS_amb_desert_day_background_loop_01		21299296
+	341736802	BAS_amb_desert_night_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_desert_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Desert_background\BAS_amb_desert_night_background_loop_01		11931232
+	587927938	BAS_amb_desert_day_background_loop_01	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_desert_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Desert_background\BAS_amb_desert_day_background_loop_01		21299296
+	1043118636	Explosion	C:\Users\Xavi\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\Explosion_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\Boulder\Explosion		768160
 
