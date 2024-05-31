@@ -40,10 +40,10 @@
 					<ChildrenList>
 						<Event Name="Destruction_Container" ID="{47E32CAC-2E51-4BB1-99A0-6D7250ADB31B}">
 							<ChildrenList>
-								<Action Name="" ID="{759BBDCE-28A2-49C2-9938-CC9E0DE747B9}" ShortID="200758032">
+								<Action Name="" ID="{0BB34149-822E-45B4-8B1E-82E5F328C48C}" ShortID="61631250">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_Crate_Destroy_01" ID="{C569E61F-579A-4A89-B961-47B130FDBBBC}" WorkUnitID="{7785CAD9-A2E7-410E-B7CC-48FE6E5B44E9}"/>
+											<ObjectRef Name="CrateDestroy" ID="{60C60427-8CC6-4199-98B1-635510BCA7D8}" WorkUnitID="{7785CAD9-A2E7-410E-B7CC-48FE6E5B44E9}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -62,10 +62,10 @@
 						</Event>
 						<Event Name="Destruction_Rock_Destroy" ID="{25FD1F89-B053-428C-BF85-CA33162AF18B}">
 							<ChildrenList>
-								<Action Name="" ID="{5C51428F-D512-4995-BA2F-B0E1D7A0332B}" ShortID="153560154">
+								<Action Name="" ID="{3C9C1CC7-C7CC-4FFB-9B77-AC6C5F51E98B}" ShortID="1044955097">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_Destroy_Rock_01" ID="{4FFBC7B6-4C55-45DC-8748-32A6EB81D6D7}" WorkUnitID="{7785CAD9-A2E7-410E-B7CC-48FE6E5B44E9}"/>
+											<ObjectRef Name="RockDestroy" ID="{CF08218B-2968-45A2-A51B-008D98CFE965}" WorkUnitID="{7785CAD9-A2E7-410E-B7CC-48FE6E5B44E9}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
