@@ -174,7 +174,7 @@
 				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="rkBsRYxeaUW2Gq0ht5/Rdw=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="Q8OQSlVYS0K5KV+a8tZgFXx/xI7YR6tLqZlc8ntRXAmn+YaExF6ARYdUi6/qI7P8AOjOlmxSqk2BvImJtiKZ2qRBjzpp/YhApLUmsTEhLgpcHxXTO0ZvTbo6V+SRfjmMmRGd+aUtcEe/BR+3elXu7p2TdSYoIM5EgeS5Ji8wQeAKZmdjIx1oToh+j9hopZ/7kqjKa0vNY0mVBxblpK2dsQaQWMZUZxFEjqCaW45gOIMLtV+UbySXQ7iSNh5iRn7Hxp0jtcuHO0q9P0aJsiGbiHQIa8oVMYxEpOc4CrsoLJOrT3WJ1xSoQ7G5Qc9wDpkAy99ykblanEefOreSB+AqODBdvbs7wztNge1UZfSWR7zbjPtaH6EbSZhOc+hDBqfjb8rIqUJ67EGS46dhTJDPSUu3QDGwP8dFnVmmgEqlV5Q="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value=""/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>

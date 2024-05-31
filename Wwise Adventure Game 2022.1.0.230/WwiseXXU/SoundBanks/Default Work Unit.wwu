@@ -9,6 +9,7 @@
 						<ObjectRef Name="Ambient_Campfire_Stop" ID="{8874D441-0C27-41B6-9C82-9AD234582124}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Destruction_VolcanicBoulder_Impact" ID="{16EA52A8-7553-4459-8ACF-C685389F6161}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Open" ID="{119383DF-3594-44F2-B11F-5E147D53B029}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_WeaponImpact" ID="{60E03ED2-8BCF-461C-BA9B-28477F3C72D9}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Hide" ID="{0E7DC97D-AD15-4723-9150-C14AEDA44377}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Close" ID="{C545E908-85C0-4772-AF5F-FC441B6C8CA1}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambient_Campfire_Play" ID="{3F92659A-808A-47F3-8FC4-1174EE595E42}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
