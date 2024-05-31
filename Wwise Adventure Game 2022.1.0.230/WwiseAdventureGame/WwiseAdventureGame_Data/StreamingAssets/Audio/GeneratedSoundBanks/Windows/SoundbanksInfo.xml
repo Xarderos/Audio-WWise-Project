@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{C707064E-ACDF-8D94-1407-12250E8A35BD}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{DB125129-A867-A0DB-0E50-E75BDA38FCDB}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
@@ -1242,46 +1242,6 @@
 				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="2242381963" Type="User" Language="SFX" Hash="{1828A61D-635D-93BB-855C-A171D7CE6897}">
-			<ShortName>Enemies</ShortName>
-			<Path>Enemies.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651649" Type="User" Language="SFX" Hash="{68B9A84A-88CB-7817-21DC-77B6C6FB24C7}">
-			<ShortName>Quest_01</ShortName>
-			<Path>Quest_01.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651650" Type="User" Language="SFX" Hash="{B33F0ED0-909F-DAAE-31CC-23725D716CA6}">
-			<ShortName>Quest_02</ShortName>
-			<Path>Quest_02.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651651" Type="User" Language="SFX" Hash="{80F1972E-511C-274E-1B81-60B8889A664D}">
-			<ShortName>Quest_03</ShortName>
-			<Path>Quest_03.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651652" Type="User" Language="SFX" Hash="{C3357283-981B-CF53-9BE5-5D3D4AD2A120}">
-			<ShortName>Quest_04</ShortName>
-			<Path>Quest_04.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651653" Type="User" Language="SFX" Hash="{6DACC1A5-B43C-CBD7-874F-FCA7CEB07429}">
-			<ShortName>Quest_05</ShortName>
-			<Path>Quest_05.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651654" Type="User" Language="SFX" Hash="{77E25BF9-92D2-3F99-D26D-DD22EC39BBC9}">
-			<ShortName>Quest_06</ShortName>
-			<Path>Quest_06.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651655" Type="User" Language="SFX" Hash="{B5E36B74-18C7-8DDA-4D67-ADEC6F298899}">
-			<ShortName>Quest_07</ShortName>
-			<Path>Quest_07.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2307651656" Type="User" Language="SFX" Hash="{2714ABE0-90AB-C0B7-5858-150E980B9976}">
-			<ShortName>Quest_08</ShortName>
-			<Path>Quest_08.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2446376615" Type="User" Language="SFX" Hash="{BD0A76BE-3907-BFEC-BBE3-753126854422}">
-			<ShortName>Destruction</ShortName>
-			<Path>Destruction.bnk</Path>
-		</SoundBank>
 		<SoundBank Id="2482365692" Type="User" Language="SFX" Hash="{2B3DDE3B-6C29-8F05-BB03-5FEEC5660C24}">
 			<ShortName>PineForest</ShortName>
 			<Path>PineForest.bnk</Path>
@@ -1301,10 +1261,6 @@
 			<GameParameters>
 				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
 			</GameParameters>
-		</SoundBank>
-		<SoundBank Id="3787826988" Type="User" Language="SFX" Hash="{01AF54D9-2D97-6848-7CC1-EDDE863FFC9D}">
-			<ShortName>Core</ShortName>
-			<Path>Core.bnk</Path>
 		</SoundBank>
 		<SoundBank Id="3945572659" Type="User" Language="SFX" Hash="{429FD08B-0E96-EA46-02E0-BCC1E92DA3C4}">
 			<ShortName>Village</ShortName>
@@ -1414,5 +1370,5 @@
 			</GameParameters>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{06F2737D-4A2F-C757-ABCA-F04FBCC7F3F7}</FileHash>
+	<FileHash>{ECD95254-6621-5038-909A-E7EA931511DF}</FileHash>
 </SoundBanksInfo>

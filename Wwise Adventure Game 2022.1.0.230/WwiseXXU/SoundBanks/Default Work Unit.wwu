@@ -24,65 +24,6 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
-				<SoundBank Name="Destruction" ID="{BBBD5D30-C33B-4D3B-81ED-5465F49647BC}">
-					<ObjectInclusionList/>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
-				<SoundBank Name="Enemies" ID="{5AFB8CDB-A11F-491B-984E-73E84306A7E3}">
-					<ObjectInclusionList/>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
-				<SoundBank Name="Core" ID="{89754FAB-14D7-43A8-B1B9-41CF700E9900}">
-					<ObjectInclusionList/>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
-				<Folder Name="Quests" ID="{74D9D4F8-E59A-437B-8953-57E6DD3F3FF3}" ShortID="157502809">
-					<ChildrenList>
-						<SoundBank Name="Quest_02" ID="{8EC47F7C-47D8-4BAB-A999-5CF27B515C09}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-						<SoundBank Name="Quest_04" ID="{96CEE800-526C-4DAA-81BC-8989B62299DA}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-						<SoundBank Name="Quest_03" ID="{8486F9A7-5EC4-4580-8754-8BAFEA23B3FC}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-						<SoundBank Name="Quest_08" ID="{2675939D-2028-44CE-81E4-B9262F3041E0}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-						<SoundBank Name="Quest_06" ID="{D3151F5C-463B-4D6F-BA3A-57E4917E398C}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-						<SoundBank Name="Quest_05" ID="{3A8F41A4-FD69-4088-A4B5-26B131212E0A}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-						<SoundBank Name="Quest_01" ID="{4A90C343-5855-424B-B929-5F9AF2D66015}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-						<SoundBank Name="Quest_07" ID="{F99D1199-2DA5-4770-BF05-1FB77A55EEEE}">
-							<ObjectInclusionList/>
-							<ObjectExclusionList/>
-							<GameSyncExclusionList/>
-						</SoundBank>
-					</ChildrenList>
-				</Folder>
 				<SoundBank Name="Credits" ID="{9172DFCB-5AB9-479C-9F3A-B79207E02A38}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Music_Credits" ID="{DB269BA6-16B3-4E39-AC76-79F5B594C973}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
