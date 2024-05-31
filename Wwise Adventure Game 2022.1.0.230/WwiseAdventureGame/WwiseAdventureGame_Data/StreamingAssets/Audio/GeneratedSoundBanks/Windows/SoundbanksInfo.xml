@@ -1218,7 +1218,7 @@
 				<GameParameter Id="207908541" Name="Time_of_Day"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{1CBBD7DE-388E-2B7F-8521-03D5380F40F4}">
+		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{31DE2C11-1D55-0D0D-40C5-248441B6657A}">
 			<ShortName>Cave</ShortName>
 			<Path>Cave.bnk</Path>
 			<Media>
@@ -1279,5 +1279,5 @@
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{13E77F5F-ABCE-9947-A4E8-246C5A5A75AD}</FileHash>
+	<FileHash>{B181E05A-75B4-7A34-77D4-AC91EAA31745}</FileHash>
 </SoundBanksInfo>

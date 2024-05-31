@@ -401,6 +401,7 @@
 								<RandomSequenceContainer Name="WaterDrop" ID="{A3FEC882-E024-45E1-92E7-F5B136032329}" ShortID="359345903">
 									<PropertyList>
 										<Property Name="3DSpatialization" Type="int16" Value="2"/>
+										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
 												<Value>-5</Value>
