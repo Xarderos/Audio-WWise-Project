@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{E783D4BC-AC47-47CB-9E94-623DC44021C7}" SchemaVersion="110">
 	<Switches>
-		<WorkUnit Name="Default Work Unit" ID="{E783D4BC-AC47-47CB-9E94-623DC44021C7}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{E783D4BC-AC47-47CB-9E94-623DC44021C7}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Surface_Type" ID="{C694A48E-E4C1-4AD0-BC49-2587C998CE5C}">
+					<ChildrenList>
+						<Switch Name="Agent" ID="{6875A8B3-2972-4782-AF79-39B0CB181E3E}"/>
+						<Switch Name="Barrel" ID="{A67DBCEE-10CF-4A77-BC1F-6B5781019A71}"/>
+						<Switch Name="Crate" ID="{C713283E-7368-4BCA-ABCA-F9641684FD9F}"/>
+						<Switch Name="Crystal" ID="{40F76D03-98F4-400C-BEB4-B86F57E53C03}"/>
+						<Switch Name="Dirt" ID="{85C0A784-57D1-43EA-96B7-A8FE34331744}"/>
+						<Switch Name="Enemy_EvilCrawler" ID="{2CF89C03-8E0F-40AC-BDF2-0C14A5B0EC75}"/>
+						<Switch Name="Enemy_EvilHead" ID="{C0E5669A-48B2-46B1-B0AE-2AC2D32E39D9}"/>
+						<Switch Name="Enemy_EvilSpitPlant" ID="{5912DB02-DD1B-47F4-97F4-9E05DB707521}"/>
+						<Switch Name="Grass" ID="{F27FFD6F-E962-4FFD-9A92-7E57AF319F19}"/>
+						<Switch Name="Leaves" ID="{10713504-CC7B-4373-992F-EEDD5E259980}"/>
+						<Switch Name="Metal" ID="{A76C7184-E3D8-42A4-833E-D6B3C115BA66}"/>
+						<Switch Name="Rubble" ID="{7408FC9D-4291-4644-A830-D2EAEBFE0201}"/>
+						<Switch Name="Sand" ID="{C9AC0F43-218A-479E-93EA-B6A99FCE2E72}"/>
+						<Switch Name="Stone" ID="{A1869419-ADE9-49C2-B3D6-7DEA9A80B6B8}"/>
+						<Switch Name="Water" ID="{1FE1EBCB-35A4-4034-9AC4-3A325416807C}"/>
+						<Switch Name="Wood" ID="{AAD9E194-FDE7-427D-816E-CC01CE12C811}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Player_Pickup_ItemType" ID="{9F839D44-B755-47B9-AB26-37308FB3CA1D}">
+					<ChildrenList>
+						<Switch Name="Book" ID="{BA185299-041E-410A-A74D-5786EA16F244}"/>
+						<Switch Name="CrystalShard" ID="{EF919022-94C1-414A-BA7D-956DF460446D}"/>
+						<Switch Name="Key" ID="{3442003B-B1C3-4F84-ACBE-4EF78F6AB985}"/>
+						<Switch Name="EvilEssence" ID="{364CA236-1321-4B0D-8226-4B902D2C621D}"/>
+						<Switch Name="PineCone" ID="{EEA68157-0F10-4596-8868-890B1424748E}"/>
+						<Switch Name="Misc" ID="{75EC0B3D-ED75-44E5-9E9E-DF52659D818E}"/>
+						<Switch Name="Mushroom" ID="{418D43FA-2018-45E3-831F-E6611FFB3C24}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Player_Weapon_Type" ID="{B2589FDB-2B48-48B8-A025-53E4AB4FE063}">
+					<ChildrenList>
+						<Switch Name="Axe" ID="{FF32FDDD-8612-441C-90D0-8919410CE318}"/>
+						<Switch Name="Dagger" ID="{A8D6FFEA-C205-49E0-95A8-5091FF97AB95}"/>
+						<Switch Name="Hammer" ID="{E22BBAAF-1AF6-4BF0-B4FD-E7AC03319707}"/>
+						<Switch Name="PickAxe" ID="{D0D9A492-7F76-4040-90EF-7006FB52DC72}"/>
+						<Switch Name="Sword" ID="{6978B668-81F1-432D-A3DD-871A7DABD00B}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</Switches>
 </WwiseDocument>

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1331382810	Ambient_Region_Cave			\Default Work Unit\Ambient\Ambient_Region_Cave	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	147791747	BAS_amb_cave_background_LP	C:\Users\PcCom\Documents\GitHub\Audio-WWise-Project\Wwise Adventure Game 2022.1.0.230\WwiseXXU\.cache\Windows\SFX\BAS_amb_cave_background_LP_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\BAS_amb_cave_background_LP		14786892
+
