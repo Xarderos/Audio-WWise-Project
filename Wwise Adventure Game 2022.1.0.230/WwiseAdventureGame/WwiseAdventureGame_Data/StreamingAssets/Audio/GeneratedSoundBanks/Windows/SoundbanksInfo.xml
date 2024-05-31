@@ -9,10 +9,38 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{61157290-94B6-6EE7-9C30-5BABB2187670}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{CE2C62C9-6236-B369-7B3F-7FCA82A925DB}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
+				<File Id="72284526" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_QuestRoll_Close.wav</ShortName>
+					<CachePath>SFX/BAS_QuestRoll_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="113860443" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crystals_Destroy.wav</ShortName>
+					<CachePath>SFX/BAS_Crystals_Destroy_10C4C929.wem</CachePath>
+				</File>
+				<File Id="247052967" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Button_Enter.wav</ShortName>
+					<CachePath>SFX/BAS_Button_Enter_10C4C929.wem</CachePath>
+				</File>
+				<File Id="270169039" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Button_Close.wav</ShortName>
+					<CachePath>SFX/BAS_Button_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="274672633" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_04.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="368175859" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Inventory_Scroll.wav</ShortName>
+					<CachePath>SFX/BAS_Inventory_Scroll_10C4C929.wem</CachePath>
+				</File>
+				<File Id="474399885" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_QuestRoll_Open.wav</ShortName>
+					<CachePath>SFX/BAS_QuestRoll_Open_10C4C929.wem</CachePath>
+				</File>
 				<File Id="586765292" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_04.wav</ShortName>
 					<CachePath>SFX/Grass/BAS_Player_Footstep_grass_walk_04_10C4C929.wem</CachePath>
@@ -21,9 +49,41 @@
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_05.wav</ShortName>
 					<CachePath>SFX/Grass/BAS_Player_Footstep_grass_walk_05_10C4C929.wem</CachePath>
 				</File>
+				<File Id="609184766" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_05.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_05_10C4C929.wem</CachePath>
+				</File>
 				<File Id="635420398" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_03.wav</ShortName>
 					<CachePath>SFX/Grass/BAS_Player_Footstep_grass_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="648029921" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_03.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="673705479" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_01.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="699299657" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Inventory_Close.wav</ShortName>
+					<CachePath>SFX/BAS_Inventory_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="712016844" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_03.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="723128215" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_06.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="730490377" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Inventory_Open.wav</ShortName>
+					<CachePath>SFX/BAS_Inventory_Open_10C4C929.wem</CachePath>
+				</File>
+				<File Id="760684362" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_02.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_02_10C4C929.wem</CachePath>
 				</File>
 				<File Id="792930211" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_02.wav</ShortName>
@@ -33,12 +93,51 @@
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_01.wav</ShortName>
 					<CachePath>SFX/Grass/BAS_Player_Footstep_grass_walk_01_10C4C929.wem</CachePath>
 				</File>
+				<File Id="821352147" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_01.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_01_10C4C929.wem</CachePath>
+				</File>
 				<File Id="840883599" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Grass\BAS_Player_Footstep_grass_walk_06.wav</ShortName>
 					<CachePath>SFX/Grass/BAS_Player_Footstep_grass_walk_06_10C4C929.wem</CachePath>
 				</File>
+				<File Id="967835264" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_02.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1043118636" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explosion.wav</ShortName>
+					<CachePath>SFX/Explosion_10C4C929.wem</CachePath>
+				</File>
 			</Media>
 			<Events>
+				<Event Id="4254124015" Name="Destruction_Container">
+					<MediaRefs>
+						<MediaRef Id="274672633"/>
+						<MediaRef Id="609184766"/>
+						<MediaRef Id="648029921"/>
+						<MediaRef Id="673705479"/>
+						<MediaRef Id="723128215"/>
+						<MediaRef Id="760684362"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="448719855" Name="Destruction_Crystal_Destroy">
+					<MediaRefs>
+						<MediaRef Id="113860443"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1999886838" Name="Destruction_Rock_Destroy">
+					<MediaRefs>
+						<MediaRef Id="712016844"/>
+						<MediaRef Id="821352147"/>
+						<MediaRef Id="967835264"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2541270269" Name="Destruction_VolcanicBoulder_Impact">
+					<MediaRefs>
+						<MediaRef Id="1043118636"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="2453392179" Name="Player_Footstep">
 					<MediaRefs>
 						<MediaRef Id="586765292"/>
@@ -47,6 +146,41 @@
 						<MediaRef Id="792930211"/>
 						<MediaRef Id="807112778"/>
 						<MediaRef Id="840883599"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2278290679" Name="UI_Inventory_Close">
+					<MediaRefs>
+						<MediaRef Id="699299657"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2199611969" Name="UI_Inventory_Open">
+					<MediaRefs>
+						<MediaRef Id="730490377"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3749307760" Name="UI_Inventory_Roll">
+					<MediaRefs>
+						<MediaRef Id="368175859"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="808893336" Name="UI_QuestRoll_Close">
+					<MediaRefs>
+						<MediaRef Id="72284526"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2792117052" Name="UI_QuestRoll_Hide">
+					<MediaRefs>
+						<MediaRef Id="270169039"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="949395292" Name="UI_QuestRoll_Open">
+					<MediaRefs>
+						<MediaRef Id="474399885"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3699139167" Name="UI_QuestRoll_Show">
+					<MediaRefs>
+						<MediaRef Id="247052967"/>
 					</MediaRefs>
 				</Event>
 			</Events>
@@ -319,5 +453,5 @@
 			<Path>Cave.bnk</Path>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{CB2DD869-7AD4-957B-E233-E639569D69CD}</FileHash>
+	<FileHash>{03BE385B-7E85-37D0-64AE-724EC95D03BD}</FileHash>
 </SoundBanksInfo>

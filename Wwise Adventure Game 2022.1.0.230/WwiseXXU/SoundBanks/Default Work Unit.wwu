@@ -6,6 +6,17 @@
 				<SoundBank Name="General" ID="{A9C8CA6F-7A42-41EC-92E3-A7614C90CF49}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Player_Footstep" ID="{FD0FC1A2-463F-4183-88A4-56A556A4DCDE}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Destruction_Rock_Destroy" ID="{25FD1F89-B053-428C-BF85-CA33162AF18B}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Destruction_VolcanicBoulder_Impact" ID="{16EA52A8-7553-4459-8ACF-C685389F6161}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Open" ID="{119383DF-3594-44F2-B11F-5E147D53B029}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Hide" ID="{0E7DC97D-AD15-4723-9150-C14AEDA44377}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Close" ID="{C545E908-85C0-4772-AF5F-FC441B6C8CA1}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Inventory_Roll" ID="{AFE96343-3525-47F9-ACF7-69C1C68C8894}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Destruction_Container" ID="{47E32CAC-2E51-4BB1-99A0-6D7250ADB31B}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Inventory_Open" ID="{52C7D89B-A3DA-4ED6-9C39-1BE8B2A8034E}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Inventory_Close" ID="{DBAF4EED-6AB2-4F05-83E4-9E81ADA8FC4B}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Show" ID="{45444C6B-8180-4FF0-8021-C4ADCD3D46BF}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Destruction_Crystal_Destroy" ID="{729E2DA7-91B4-4FFA-99CB-8419621B8C85}" WorkUnitID="{8DF1B2C1-CFBE-4F7B-8B1B-E929251B457D}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
